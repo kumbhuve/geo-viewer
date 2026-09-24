@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+.venv/
+venv/
+.DS_Store
+# never commit customer data
+data/private/
+*.gdb/

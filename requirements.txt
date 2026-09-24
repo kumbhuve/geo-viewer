@@ -1,0 +1,3 @@
+# Core needs only the Python standard library.
+# Optional: reprojection of projected data before adding a basemap
+pyproj>=3.4
